@@ -8,15 +8,6 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DimitriMikadze/react-under-construction.git"
-  },
-  "author": "Dimitri Mikadze <dimitrimikadze@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/DimitriMikadze/create-react-library/issues"
-  },
-  "homepage": "https://github.com/DimitriMikadze/react-under-construction#readme",
   "license": "MIT",
   "dependencies": {
     "react-under-construction": "^0.3.0"
